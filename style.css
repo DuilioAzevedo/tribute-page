@@ -1,0 +1,22 @@
+main{
+    margin:20px;
+  }
+  h1{
+    font-family: arial sans-serif ;
+    text-align: center;
+  }
+  
+  #image{
+    display:block;
+    max-width: 100%;
+    height: auto;
+    margin: auto;
+  }
+  #img-caption{
+    font-family: monospace;
+    text-align: center;
+  }
+  #tribute-info{
+    text-align:justify;
+  }
+  
